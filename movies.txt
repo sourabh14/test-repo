@@ -5,3 +5,5 @@ Movies
 4. The Pursuit of Happiness
 5. The Man who knew infinity
 6. Sherlock Holmes
+7. Amelie
+8. Going the distance
