@@ -3,3 +3,5 @@ Movies
 2. Twelve Angry Men
 3. Psycho
 4. The Pursuit of Happiness
+5. The Man who knew infinity
+6. Sherlock Holmes
